@@ -1,0 +1,64 @@
+21carrot
+tuberous vegetables
+DLJ Produce Distributors
+2 50amaranth
+tuberous vegetables
+Mountain Produce
+3 80amaranth
+tuberous vegetables
+A and F Distributing Corp.
+5 90squash blossoms
+tuberous vegetables
+Alliance Produce Distributors
+2 0Napa cabbage
+tuberous vegetables
+S and L Wholesale Produce
+2 0zucchini
+tuberous vegetables
+S and L Wholesale Produce
+5 50burdock
+tuberous vegetables
+Westlake produce company
+3 100chayote
+tuberous vegetables
+Alliance Produce Distributors
+2 70okra
+tuberous vegetables
+Get Fresh Distributors Inc
+3 90pea
+tuberous vegetables
+LA Produce Distributors
+3 90pea
+tuberous vegetables
+Produce Services of Los Angeles
+2 20pea
+root
+Galli Produce Inc
+5 50radish
+seed vegetables
+Get Fresh Distributors Inc
+2 0spinach
+leaf
+M&M Farms Inc.
+4 60cowpea
+root
+LA Produce Distributors
+4 20onion
+root
+S and L Wholesale Produce
+4 100stinging nettle
+tuberous vegetables
+Westlake produce company
+3 90bell pepper
+leaf
+West Central Produce
+3 50Jerusalem artichoke
+seed vegetables
+Produce Services of Los Angeles
+3 0burdock
+seed vegetables
+Westlake produce company
+3 40husk tomato
+seed vegetables
+California Green Distributor, Inc
+4 30

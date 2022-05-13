@@ -1,0 +1,115 @@
+A 6 0 0 16Nuno
+leaf
+chard
+durian
+squash blossoms
+durian
+onion
+broccoli
+celeriac
+ti
+chive
+jicama
+common bean
+lotus
+celeriac
+cauliflower
+bell pepper
+pea
+B 5 5 7 12Bernardo
+root
+Indian fig
+M&M Farms Inc.
+1 100 4 1lotus
+Primo Growers And Distributors
+2 20 3 2broad bean
+DLJ Produce Distributors
+4 30 1 4avocado
+The SF Market (San Francisco Wholesale Produce Market)
+3 50 0 3taro
+Alliance Produce Distributors
+3 30 0 3plantain
+common bean
+rutabaga
+zucchini
+ginger
+loofah
+bok choy
+loofah
+lotus
+peanut
+common bean
+kale
+C 6 6 0 14Joao
+seed vegetables
+lotus
+LA Produce Distributors
+2 90 8 2borage
+California Green Distributor, Inc
+3 60 5 3chive
+Ensenada Produce Distributors
+3 30 3 3Tossa jute
+Produce Services of Los Angeles
+4 80 0 4durian
+Ensenada Produce Distributors
+5 10 0 5spinach
+The SF Market (San Francisco Wholesale Produce Market)
+1 90 0 1chayote
+fennel
+kohlrabi
+broccoli
+Chinese water chestnut
+lemongrass
+grape leaves
+mustard
+asparagus
+cowpea
+musk cucumber
+mustard
+broad bean
+spinach
+D 6 3 0 19Guilherme
+seed vegetables
+eggplant
+California Green Distributor, Inc
+1 90 2 1snake gourd
+Produce Services of Los Angeles
+1 60 1 1grape leaves
+Primo Growers And Distributors
+5 90 0 5caper
+horseradish
+onion
+potato
+broad bean
+cauliflower
+pea
+lamb's lettuce
+okra
+horseradish
+Napa cabbage
+ginger
+radish
+olive
+eggplant
+peanut
+gherkin
+celery
+celery
+E 3 3 0 10Pedro
+tuberous vegetables
+bamboo
+Alliance Produce Distributors
+4 100 1 4beet
+Get Fresh Distributors Inc
+1 80 0 1arugula
+Primo Growers And Distributors
+2 20 0 2Jerusalem artichoke
+Napa cabbage
+collard
+lettuce
+gherkin
+sorrel
+salsify
+gherkin
+parsnip
+loofah
