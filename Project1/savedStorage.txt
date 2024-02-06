@@ -1,0 +1,46 @@
+15spinach
+seed vegetables
+California Green Distributor, Inc
+4 80salsify
+seed vegetables
+Nacho's Wholesale Produce
+1 10amaranth
+seed vegetables
+M&M Farms Inc.
+4 100chard
+seed vegetables
+Get Fresh Distributors Inc
+3 80beet
+bulb
+The SF Market (San Francisco Wholesale Produce Market)
+1 80sorrel
+seed vegetables
+Ensenada Produce Distributors
+3 100pea
+seed vegetables
+Reyes Wholesale Produce
+3 60celery
+bulb
+Mountain Produce
+4 40fennel
+bulb
+West Central Produce
+2 10tomato
+seed vegetables
+M&M Farms Inc.
+3 40arugula
+bulb
+Produce Services of Los Angeles
+3 70zucchini
+bulb
+Mountain Produce
+4 20bell pepper
+bulb
+The SF Market (San Francisco Wholesale Produce Market)
+5 10chive
+bulb
+California Green Distributor, Inc
+5 30asparagus
+bulb
+DLJ Produce Distributors
+4 70
